@@ -50,7 +50,6 @@ int main()
 
     cout << "==== Add Teacher Details ====\n";
 
-    // user
     for (int i = 0; i < 5; i++) 
 	
 	{
