@@ -18,7 +18,6 @@ public:
         lectures =  1;
     }
 
-    // Function to take input
     void getDetails() 
 	{
         cout << "Enter teacher name: ";
